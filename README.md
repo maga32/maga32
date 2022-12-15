@@ -5,7 +5,7 @@
 
 <img src = 'https://user-images.githubusercontent.com/98816249/207913378-f2c00d0e-9b59-4461-9ec8-26b3a13f4f37.gif' align='right' width='200'/>
 
-[![Linkedin Badge](https://img.shields.io/badge/-maga32%40naver.com-grey?style=for-the-badge&logo=Naver)](mailto:asterp04@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-maga32%40naver.com-grey?style=for-the-badge&logo=Naver)](mailto:maga32@naver.com)
 
 [![Youtube Channel](https://img.shields.io/badge/-Home%20Page-grey?style=for-the-badge&logo=HomeAdvisor)](https://sung-a.duckdns.org)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maga32&style=for-the-badge&color=orange" ></p>
