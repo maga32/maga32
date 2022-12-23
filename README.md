@@ -52,12 +52,11 @@
  ```
  
 ## Current Works
- * Started learning MERN Stack !!
- * I'm currently working on 🔭 building **Mobile Apps using Flutter** and working up on polishing my skills 🌱 in **Competitive Programming**.
- * Getting Started with NodeJS and the MERN Stack!!
- 
-## Other Stuff
-  - :octocat: [My Resume](https://drive.google.com/file/d/1uxq1shtoVfoD8D4sD5MHN3drGVA50vlz/view?usp=sharing)
-  - If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.(P.S. Star it too!!:grimacing: )
+ * java - 개인 cloud만들기 작업중
+ * php - 서버 db연동 엑셀데이터 추출 작업중
 
-![Haany's github stats](https://github-readme-stats.vercel.app/api?username=maga32&show_icons=true&hide=[%22issues%22])
+
+## Other Stuff
+  - 
+
+![Seunghwa Baek's github stats](https://github-readme-stats.vercel.app/api?username=maga32&show_icons=true&hide=[%22issues%22])
