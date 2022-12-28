@@ -107,6 +107,7 @@ class WhoAmI {
 	ArrayList<String> getAmbitions(String name){
 		ArrayList<String> ambitions = new ArrayList<String>();
 		ambitions.add("개인 운영 사이트들 완성하기");
+		ambitions.add("정보처리기사 준비");
 		ambitions.add("포트폴리오 정리하기");
 		ambitions.add("내집 마련하기");
 		
